@@ -1,1 +1,7 @@
-Hello!
+This is the start of hopefully a cool extension that I can use to manually track my purchases to keep my spending less than $10 a day on average
+
+Every day it adds $10 to my balance, and I log each transaction that I deem fit to deduct from my balance.
+
+Over time I can accumulate money to spend on things that are more than $10 because my balance is cumulative and not reset over time.
+
+Activity should be logged into a csv and read to see history of purchases
